@@ -284,4 +284,14 @@ Network graph:</br>
 git log:</br>
 ![Промежуточный итог](2/4.png)
 
+
+Ссылка на репо
+
+
+https://github.com/krukov-ops/devops-netology/network
+
+
+
+
+
 ---- 
